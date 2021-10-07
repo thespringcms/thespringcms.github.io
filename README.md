@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to SpringCMS (Myanmar)
 
-You can use the [editor on GitHub](https://github.com/thespringcms/thespringcms.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Spring CMS is just a static site template written in JavaScript using Google SpreadSheet/Blogger as backend.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Under Development
 
-### Markdown
+The Spring CMS is under development and it can be used soon.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Requirements to use The Spring CMS
 
-```markdown
-Syntax highlighted code block
+- A Google account 
+- A Blog or Sheet
+- A Static webpage hosting which has support to use JavaScript, NodeJS and React (like githug pages)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thespringcms/thespringcms.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more information, mail to springcms.myanmar@gmail.com or springcms@outlook.com
